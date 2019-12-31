@@ -1,0 +1,1 @@
+My current project is to recreate the Google-Homepage, applying the knowledge I have learned of HTML, CSS, and the browser devtools. This is the first project I am attempting!

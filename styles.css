@@ -1,0 +1,80 @@
+.buttons{
+    display: inline-block;
+    background-color: #f2f2f2;
+    padding: 0px 16px;
+    margin: 11px 4px;
+    border-width: 1px;
+    border-style: solid;
+    height: 32px;
+}
+
+.bttns_s{
+    height: 58px;
+    width: 487px;
+    text-align:center;
+    margin: 0 auto;
+}
+
+#ggl_logo{
+    clear:both;
+    padding-top: 109px;
+    display: block;
+    margin: 0 auto;
+}
+
+#search{
+    display:block;
+    margin: 0 auto;
+    width: 387px;
+    height: 34px;
+}
+
+.hnav_l{
+    float:left;
+    height:15px;
+    width:110px;
+}
+
+.hnav_r{
+    float:right;
+    height:30px;
+    width:200px;
+}
+
+div.hnav_r li{
+    float:left;
+}
+
+.footer{
+    position:absolute;
+    width: 100%;
+    bottom: 0;
+    color: #5f6368;
+    margin-left: -10px;
+    line-height: 20px;
+    background-color: rgb(242,242,242);
+}
+#logo_thing{
+    float:left;
+    height: 30px;
+    width: 30px;
+    background-image:url('http://ssl.gstatic.com/gb/images/i1_1967ca6a.png');
+    background-size: 528px 68px;
+    background-position: -132px -38px;
+    margin-left: 15px;
+    opacity: 75%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+  }
+
+  li {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    padding-left: 15px;
+    display: inline-block;
+    opacity: .75;
+  }
